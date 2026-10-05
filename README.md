@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Free Resume Templates | ATS-Optimized for Everyone</h1>
+  <h1>Free ATS Resume Templates </h1>
 
   <img src="https://img.shields.io/badge/LaTeX-Free%20Templates-orange" alt="LaTeX Templates"/>
   <img src="https://img.shields.io/badge/ATS--Friendly-green" alt="ATS Friendly"/>
